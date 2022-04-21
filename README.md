@@ -1,3 +1,4 @@
+# FOR MY TESTING
 # WatchYourCalendar
 A minimal watch app that makes the flow of the school day conveniently available on your wrist!
 
